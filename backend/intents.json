@@ -1,0 +1,200 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hello",
+        "Hi",
+        "Hey",
+        "Good morning",
+        "Good afternoon",
+        "Can you help me?",
+        "Who are you?"
+      ],
+      "responses": [
+        "Hello! I can answer questions about ZH's experience, skills, education and projects.",
+        "Hi! Ask me anything about ZH's software engineering background."
+      ]
+    },
+    {
+      "tag": "profile",
+      "patterns": [
+        "Who is ZH?",
+        "Tell me about ZH",
+        "Introduce Lim Ze Huei",
+        "What is ZH's background?",
+        "Give me a summary of ZH",
+        "What does ZH do?"
+      ],
+      "responses": [
+        "ZH is a software engineer with one year of professional full-stack development experience. He has worked with React, TypeScript, Node.js, Python, Docker, AWS, Google Cloud and computer vision systems."
+      ]
+    },
+    {
+      "tag": "skills",
+      "patterns": [
+        "What skills does ZH have?",
+        "What programming languages does ZH know?",
+        "Does ZH know Python?",
+        "What technologies can ZH use?",
+        "Tell me about ZH's technical skills",
+        "What frameworks does ZH know?",
+        "Does ZH know Java?"
+      ],
+      "responses": [
+        "ZH's languages include Java, Python, JavaScript, TypeScript and SQL. His frameworks and tools include React, Node.js, Express, Spring Boot, Tailwind CSS, GraphQL, Docker, Firebase and Git."
+      ]
+    },
+    {
+      "tag": "cloud",
+      "patterns": [
+        "What cloud platforms has ZH used?",
+        "Does ZH know AWS?",
+        "Does ZH know Google Cloud?",
+        "What is ZH's cloud experience?",
+        "Has ZH deployed applications?",
+        "Does ZH know Docker?",
+        "What DevOps experience does ZH have?"
+      ],
+      "responses": [
+        "ZH has worked with AWS EC2, Google Cloud Run, Firestore, Firebase and Docker. He has deployed Node.js and TypeScript backends and used Nginx as a reverse proxy."
+      ]
+    },
+    {
+      "tag": "ministry_xr",
+      "patterns": [
+        "What did ZH do at Ministry XR?",
+        "Tell me about Ministry XR",
+        "Where did ZH work?",
+        "What professional experience does ZH have?",
+        "What was ZH's full-stack role?",
+        "What applications did ZH build at Ministry XR?"
+      ],
+      "responses": [
+        "ZH worked as a contract full-stack developer at Ministry XR from May 2025 to April 2026. He built React frontends, Node.js and Express APIs, Firebase applications and cloud deployments on AWS EC2 and Google Cloud Run."
+      ]
+    },
+    {
+      "tag": "tox",
+      "patterns": [
+        "What did ZH do at Tox Pressotechnik?",
+        "Tell me about ZH's internship",
+        "Where did ZH intern?",
+        "What IT support experience does ZH have?",
+        "Did ZH work in Malaysia?"
+      ],
+      "responses": [
+        "ZH was a Project and IT Intern at Tox Pressotechnik in Malaysia from November 2022 to February 2023. He supported project proposals, troubleshooting, on-site support, partner relationships and technical training sessions."
+      ]
+    },
+    {
+      "tag": "rotor_ai",
+      "patterns": [
+        "Tell me about RotorAI",
+        "What is RotorAI?",
+        "Did ZH build an AI project?",
+        "What computer vision experience does ZH have?",
+        "Does ZH know YOLO?",
+        "How does RotorAI detect defects?",
+        "What machine learning projects has ZH done?"
+      ],
+      "responses": [
+        "RotorAI is a Python video-inspection platform that detects corrosion and cracks using TensorFlow, YOLOv8 and OpenCV. Its image-preprocessing pipeline improved model accuracy by 15% under low-light conditions."
+      ]
+    },
+    {
+      "tag": "booking",
+      "patterns": [
+        "Tell me about the booking website",
+        "What booking system did ZH build?",
+        "What did ZH build with Firebase?",
+        "Does ZH have booking application experience?",
+        "How did ZH prevent scheduling conflicts?",
+        "What is the Beyonk project?"
+      ],
+      "responses": [
+        "ZH built a booking website using TypeScript, Firebase, Google Cloud Run and the Beyonk API. It used Firestore atomic transactions to prevent scheduling conflicts and Firebase Authentication for role-based access control."
+      ]
+    },
+    {
+      "tag": "web3",
+      "patterns": [
+        "Tell me about the HRDC project",
+        "What is the Web3 Workforce Hub?",
+        "Did ZH work with encryption?",
+        "Does ZH know JWT?",
+        "What security experience does ZH have?",
+        "How did ZH solve the CORS problem?"
+      ],
+      "responses": [
+        "For the HRDC Web3 Workforce Hub, ZH built a Node.js middleware proxy connecting a React frontend to backend services. It used JWT, AES-256 encryption, AWS EC2 and Nginx."
+      ]
+    },
+    {
+      "tag": "education",
+      "patterns": [
+        "Where did ZH study?",
+        "What degree does ZH have?",
+        "What is ZH's education?",
+        "Which university did ZH attend?",
+        "Did ZH study computer science?"
+      ],
+      "responses": [
+        "ZH holds a BSc in Computer Science from Queen's University Belfast in the United Kingdom."
+      ]
+    },
+    {
+      "tag": "databases",
+      "patterns": [
+        "What databases does ZH know?",
+        "Does ZH know MySQL?",
+        "Does ZH know PostgreSQL?",
+        "What database experience does ZH have?",
+        "Has ZH used Firestore?",
+        "Does ZH know Snowflake?"
+      ],
+      "responses": [
+        "ZH has experience with PostgreSQL, MySQL, Snowflake and Firestore. His booking application also used Firestore atomic transactions."
+      ]
+    },
+    {
+      "tag": "contact",
+      "patterns": [
+        "How do I contact ZH?",
+        "What is ZH's email?",
+        "How can I reach ZH?",
+        "Can I arrange an interview?",
+        "Where can I contact Lim Ze Huei?",
+        "I want to hire ZH"
+      ],
+      "responses": [
+        "You can contact ZH directly at zehueilim2005@gmail.com."
+      ]
+    },
+    {
+      "tag": "phone",
+      "patterns": [
+        "What is ZH's phone number?",
+        "Give me ZH's mobile number",
+        "Can I call ZH?",
+        "Share his telephone number"
+      ],
+      "responses": [
+        "ZH's phone number is not provided. You can contact him by email at zehueilim2005@gmail.com."
+      ]
+    },
+    {
+      "tag": "salary",
+      "patterns": [
+        "What salary does ZH want?",
+        "What is ZH's expected salary?",
+        "Is ZH available immediately?",
+        "What is ZH's notice period?",
+        "Will ZH accept our offer?"
+      ],
+      "responses": [
+        "I cannot confirm salary, availability, notice periods or employment decisions for ZH. Please contact him directly at zehueilim2005@gmail.com."
+      ]
+    }
+  ]
+}
