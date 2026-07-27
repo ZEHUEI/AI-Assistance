@@ -1,0 +1,67 @@
+{
+  "labels": [
+    "booking",
+    "cloud",
+    "contact",
+    "databases",
+    "education",
+    "greeting",
+    "ministry_xr",
+    "phone",
+    "profile",
+    "rotor_ai",
+    "salary",
+    "skills",
+    "tox",
+    "unknown",
+    "web3"
+  ],
+  "responses": {
+    "greeting": [
+      "Hello! I can answer questions about ZH's experience, skills, education and projects.",
+      "Hi! Ask me anything about ZH's software engineering background."
+    ],
+    "profile": [
+      "ZH is a software engineer with one year of professional full-stack development experience. He has worked with React, TypeScript, Node.js, Python, Docker, AWS, Google Cloud and computer vision systems."
+    ],
+    "skills": [
+      "ZH's languages include Java, Python, JavaScript, TypeScript and SQL. His frameworks and tools include React, Node.js, Express, Spring Boot, Tailwind CSS, GraphQL, Docker, Firebase and Git."
+    ],
+    "cloud": [
+      "ZH has worked with AWS EC2, Google Cloud Run, Firestore, Firebase and Docker. He has deployed Node.js and TypeScript backends and used Nginx as a reverse proxy."
+    ],
+    "ministry_xr": [
+      "ZH worked as a contract full-stack developer at Ministry XR from May 2025 to April 2026. He built React frontends, Node.js and Express APIs, Firebase applications and cloud deployments on AWS EC2 and Google Cloud Run."
+    ],
+    "tox": [
+      "ZH was a Project and IT Intern at Tox Pressotechnik in Malaysia from November 2022 to February 2023. He supported project proposals, troubleshooting, on-site support, partner relationships and technical training sessions."
+    ],
+    "rotor_ai": [
+      "RotorAI is a Python video-inspection platform that detects corrosion and cracks using TensorFlow, YOLOv8 and OpenCV. Its image-preprocessing pipeline improved model accuracy by 15% under low-light conditions."
+    ],
+    "booking": [
+      "ZH built a booking website using TypeScript, Firebase, Google Cloud Run and the Beyonk API. It used Firestore atomic transactions to prevent scheduling conflicts and Firebase Authentication for role-based access control."
+    ],
+    "web3": [
+      "For the HRDC Web3 Workforce Hub, ZH built a Node.js middleware proxy connecting a React frontend to backend services. It used JWT, AES-256 encryption, AWS EC2 and Nginx."
+    ],
+    "education": [
+      "ZH holds a BSc in Computer Science from Queen's University Belfast in the United Kingdom."
+    ],
+    "databases": [
+      "ZH has experience with PostgreSQL, MySQL, Snowflake and Firestore. His booking application also used Firestore atomic transactions."
+    ],
+    "contact": [
+      "You can contact ZH directly at zehueilim2005@gmail.com."
+    ],
+    "phone": [
+      "ZH's phone number is not provided. You can contact him by email at zehueilim2005@gmail.com."
+    ],
+    "salary": [
+      "I cannot confirm salary, availability, notice periods or employment decisions for ZH. Please contact him directly at zehueilim2005@gmail.com."
+    ],
+    "unknown": [
+      "I can only answer questions about ZH's background, skills, education, projects and experience."
+    ]
+  }
+}
