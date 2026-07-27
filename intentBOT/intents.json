@@ -195,6 +195,24 @@
       "responses": [
         "I cannot confirm salary, availability, notice periods or employment decisions for ZH. Please contact him directly at zehueilim2005@gmail.com."
       ]
-    }
+    },
+    {
+  "tag": "unknown",
+  "patterns": [
+    "I forgot my password",
+    "How do I reset my password",
+    "What is the weather today",
+    "Tell me a joke",
+    "Who is Elon Musk",
+    "How do I check my account",
+    "Login problem",
+    "I cannot access my account",
+    "What time is it",
+    "Open my account"
+  ],
+  "responses": [
+    "I can only answer questions about ZH's background, skills, education, projects and experience."
+  ]
+}
   ]
 }
